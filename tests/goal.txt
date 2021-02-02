@@ -1,0 +1,17 @@
+
+
+a clean program function that has all capabilties for json ajax calls
+
+select an event
+
+add events to target elements
+
+collect data and lables from target elements
+
+run an ajax calls
+
+handel the return
+
+apply function to target elements
+
+
