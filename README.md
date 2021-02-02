@@ -1,2 +1,2 @@
 # ajax
-a simple ajax java script
+a simple ajax javascript file
